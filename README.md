@@ -1,5 +1,4 @@
-# Word-cloud-Generator-using-Flask-Web
- Word cloud Generator  using Flask Web...(Heroku Cloud Platform)
+
  
  Sample Output with Web deployment at Local Environment:
  
